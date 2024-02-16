@@ -1,5 +1,10 @@
 git init
 git add
+
 git commite
 git push 
 git orgin
+
+git commite -m "first Try"
+git push -u orgin master
+
